@@ -5,7 +5,6 @@
 ### Project Part C: Clustering + Integrated search interface
 
 ## Summary
-===============
 I have shared the source files, all depenant files such as website files indexed in solr, pre-computed tf-idf vectors and pagerank scores are not included.
 
 ### Folder Structure as Follows:
